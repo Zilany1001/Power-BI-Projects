@@ -2,4 +2,4 @@
 
 alex-e-commerce-dashboard
 
-![Alex E-commerce](./image/alex-e-commerce-dashboard.png)
+![Alex E-commerce](./Files/alex-e-commerce-dashboard.png)
